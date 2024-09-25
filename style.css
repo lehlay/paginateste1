@@ -1,0 +1,31 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+body{
+    font-size: 20px;
+    font-family: 'Outfit';
+    margin: 0 auto; 
+    text-align: center;
+    background-color: rgb(51, 46, 46);
+    color: rgb(255, 255, 255);
+
+}
+
+#img1 {
+    width: 400px;
+    height: 260px;
+    border-radius: 200px;
+}
+
+footer{
+    background-color: darkgreen;
+}
+footer:hover{
+    background-color: lightcoral ;
+}
+.linkagem{
+    color: rgb(255, 249, 249) ;
+    word-spacing: 40px;
+
+}
